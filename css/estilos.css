@@ -1,3 +1,5 @@
 .h1 {
-    color:brown;
+    color:rgb(165, 77, 42);
+    border-width: 1px;
+    border-style: double;
 }
